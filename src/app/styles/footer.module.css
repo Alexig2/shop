@@ -1,16 +1,13 @@
-.imagelogof{
-    align-items: end;
-    justify-content: right;
-    float: right;
-  }
+.imagelogof {
+  align-items: end;
+  justify-content: right;
+  float: right;
+}
 
-.footer{
-    display: flex;
-    flex-wrap: wrap;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-
-  
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
